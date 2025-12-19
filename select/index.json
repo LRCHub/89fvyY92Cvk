@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "セカイの色彩 (AZKi solo ver.)",
+  "base_artist": "AZKi",
+  "createdAt": "2025-12-19T15:36:37.030901Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "セカイの色彩 (AZKi solo ver.)",
+      "artist": "AZKi×内田真礼",
+      "has_synced": true,
+      "path": "select/01_セカイの色彩_(AZKi_solo_ver.)_AZKi×内田真礼.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "セカイの色彩",
+      "artist": "AZKi×内田真礼",
+      "has_synced": true,
+      "path": "select/02_セカイの色彩_AZKi×内田真礼.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "セカイの色彩 (Maaya Uchida solo ver.)",
+      "artist": "AZKi×内田真礼",
+      "has_synced": true,
+      "path": "select/03_セカイの色彩_(Maaya_Uchida_solo_ver.)_AZKi×内田真礼.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "セカイの色彩 (Instrumental)",
+      "artist": "Azki",
+      "has_synced": false,
+      "path": "select/04_セカイの色彩_(Instrumental)_Azki.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "セカイの色彩",
+      "artist": "AZKi×内田真礼",
+      "has_synced": false,
+      "path": "select/pl_01_セカイの色彩_AZKi×内田真礼.txt"
+    }
+  ]
+}
